@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "my nodeJS",
-  "main": "1-intro.js",
+  "main": "1-node/1-intro.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
