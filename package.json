@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "my nodeJS",
-  "main": "1-node/1-intro.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/busingepius/NodeJS#readme",
   "dependencies": {
+    "express": "^4.19.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
