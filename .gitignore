@@ -7,3 +7,4 @@
 out
 gen
 /node_modules
+./3-tasks-API/.env
